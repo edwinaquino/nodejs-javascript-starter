@@ -12,7 +12,7 @@ Use the package manager npm to install application.
 
 Clone this script:
 ```bash
-git clone https://github.com/edwinaquino/nodejs-javascript-star
+git clone https://github.com/edwinaquino/nodejs-javascript-starter.git)
 ```
 Change Directory to the app.
 ```bash
